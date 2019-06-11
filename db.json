@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Johnny Appleseed",
+      "salary": 1000000,
+      "age": 50,
+      "image": "https://commons.wikimedia.org/wiki/File:Johnny_Appleseed_1.jpg"
+    }
+    {
+      "id": 2,
+      "name": "Juanito Manzanas",
+      "salary": 2000000,
+      "age": 80,
+      "image": "https://commons.wikimedia.org/wiki/File:Johnny_Appleseed_1.jpg"
+    }
+    {
+      "id": 3,
+      "name": "John Legend",
+      "salary": 3000000,
+      "age": 70,
+      "image": "https://commons.wikimedia.org/wiki/File:Johnny_Appleseed_1.jpg"
+    }
+    {
+      "id": 4,
+      "name": "Johnny J.P.",
+      "salary": 4000000,
+      "age": 40,
+      "image": "https://commons.wikimedia.org/wiki/File:Johnny_Appleseed_1.jpg"
+    }
+  ]
+}
